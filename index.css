@@ -38,6 +38,7 @@ body {
     margin-bottom: 15em; 
 }
 .scroll {
+    display: inline; 
     border-style: solid;
     border-width: 1px;
     border-color: black; 
