@@ -19,11 +19,12 @@ li {
 
 }
 .box {
-    display: inline; 
+    display: inline-block; 
     border-style: solid;
     border-color: black; 
     border-width: 1px;
-    padding: 0; 
+    padding: 3px; 
+
 }
 body {
     background-image: url("./imgs/race.jpg");
